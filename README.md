@@ -1,0 +1,2 @@
+# Variable_Scope
+JavaScript
